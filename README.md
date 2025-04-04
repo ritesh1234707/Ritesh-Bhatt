@@ -58,7 +58,7 @@
 
 ---
 
-### 🔥 **Cool Marvel GIF Instead of Anime:**
+### 🔥
 
 <p align="center">
   <img src="https://media.giphy.com/media/QX3JcbeZEDMq5Ko9XP/giphy.gif" width="200"/>
